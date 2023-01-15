@@ -39520,6 +39520,10 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 38px;
   margin: -32px 0 24px auto;
 }
+
+.u-header .u-search-input-1 {
+  font-weight: 400;
+}
 .u-header .u-sheet-2 {
   min-height: 140px;
 }
